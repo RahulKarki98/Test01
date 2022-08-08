@@ -1,0 +1,6 @@
+NO. of ways to push the code to github
+
+1- gitbash-push=>CLI
+2- gitdesktp
+3- gitbash clone
+4- vs code push
